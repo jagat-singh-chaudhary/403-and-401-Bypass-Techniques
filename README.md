@@ -8,7 +8,7 @@ Welcome to the **403 and 401 Bypass Techniques and Bug Bounty Tips** repository!
 
 This repository includes a wordlist of payloads specifically designed for bypassing 403 and 401 restrictions. You can access the payloads at the following link:
 
-[Payloads Wordlist](https://raw.githubusercontent.com/sabir789/BugBountyTips/refs/heads/Master/Payloads)
+[Payloads Wordlist](https://github.com/jagat-singh-chaudhary/403-and-401-Bypass-Techniques/blob/main/Payloads)
 
 #### How to Use the Payloads
 
@@ -33,7 +33,7 @@ This repository includes a wordlist of payloads specifically designed for bypass
 5. **Start the Attack:**
    - Click **Start Attack** and observe the results.
    - Look for requests that return a **200 status code**, indicating a successful bypass.
-   - ![Burp Suite Intruder Setup](https://raw.githubusercontent.com/sabir789/BugBountyTips/refs/heads/Master/Screenshot_2024-12-26_184952.png)
+   - ![Burp Suite Intruder Setup](https://github.com/jagat-singh-chaudhary/403-and-401-Bypass-Techniques/blob/main/Screenshot.png)
 
 ## Random Bug Bounty Tips and Tricks
 
@@ -48,7 +48,7 @@ This repository includes a wordlist of payloads specifically designed for bypass
 
 ## Support My Work
 
-- If you want to support my work, feel free to DM me on Twitter at [0xSabir](https://x.com/0xSabir) or contact me on WhatsApp at +923170975428. Your support means a lot and helps me continue sharing useful content!
+- If you want to support my work, feel free to DM me on Linkedin at [Jagat Singh](https://www.linkedin.com/in/jagat-singh-b824701b8/)  Your support means a lot and helps me continue sharing useful content!
 
 ## Contributing
 
