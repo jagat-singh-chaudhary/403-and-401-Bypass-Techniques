@@ -60,5 +60,5 @@ This repository is for educational purposes only. Use these techniques responsib
 
 ---
 
-Happy bug hunting! 🐞
+Happy bug hunting!
 
