@@ -58,7 +58,11 @@ Contributions are welcome! If you have new techniques, tips, or wordlists to sha
 
 This repository is for educational purposes only. Use these techniques responsibly and only on systems you have explicit permission to test.
 
----
+## ☕ Buy Me a Coffee
+
+If you find our work helpful and would like to support us, consider buying us a coffee. Your support keeps us motivated and helps us create more awesome content. ❤️
+
+☕ **Support Us Here:** [https://buymeacoffee.com/jagatsingh](https://buymeacoffee.com/jagatsingh)
 
 Happy bug hunting!
 
